@@ -1,5 +1,5 @@
 # PySnake - Snake game using python
-A simple traditional python game built using T-kinter library. Tested only on python3
+A simple traditional snake game built using Python T-kinter library. Tested only on python3
 
 ## Rquirements
 1. Tkinter Library
